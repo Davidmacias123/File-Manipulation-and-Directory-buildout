@@ -13,3 +13,10 @@ In the terminal run:
 
 
 `sudo systemctl status docker`
+
+
+
+You want to confirm:
+Docker is installed and the version is displayed.
+The Docker service is active (running) and enabled.
+Displaying “active (running)” means the daemon is ready to accept container commands.
