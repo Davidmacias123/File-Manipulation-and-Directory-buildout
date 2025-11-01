@@ -3,3 +3,9 @@ As a junior security analyst testing containerized environments for sandbox anal
 
 1. Launch the Ubuntu VM and open a terminal
 Begin by logging into your Ubuntu virtual machine and opening a terminal window.
+
+
+2. Verify Docker version and status
+In the terminal run:
+'docker --version'
+'sudo systemctl status docker'
