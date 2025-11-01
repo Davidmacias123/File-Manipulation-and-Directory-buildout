@@ -28,3 +28,6 @@ Use the Docker command to pull the official NGINX image from Docker Hub:
 
 
 `sudo docker pull nginx`
+
+
+Docker will fetch the image if it’s not already available locally. The official NGINX image is widely used and maintained.
