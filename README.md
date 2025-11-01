@@ -20,3 +20,11 @@ You want to confirm:
 Docker is installed and the version is displayed.
 The Docker service is active (running) and enabled.
 Displaying “active (running)” means the daemon is ready to accept container commands.
+
+
+
+Pull the official NGINX image
+Use the Docker command to pull the official NGINX image from Docker Hub:
+
+
+`sudo docker pull nginx`
