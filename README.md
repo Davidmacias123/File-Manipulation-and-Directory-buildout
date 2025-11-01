@@ -7,5 +7,5 @@ Begin by logging into your Ubuntu virtual machine and opening a terminal window.
 
 2. Verify Docker version and status
 In the terminal run:
-'docker --version'
-'sudo systemctl status docker'
+`docker --version`
+`sudo systemctl status docker`
